@@ -19,12 +19,15 @@ open source
 
 employment
 ===============
-2000: Trilogy Software, Austin TX. 
+2008 - present: EclipseSource
 
-2002 - 2008: IBM Centers for Advanced Studies, Toronto ON.
+2007: Google Summer of Code
+Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php).
+
+2002 - 2008: IBM Centers for Advanced Studies, Toronto ON
 During my PhD studies, I spent the summers at IBM CAS working with several technical teams.
 
-2007: Google Summer of Code.
+2000: Trilogy Software, Austin TX
 
 education
 ==============
