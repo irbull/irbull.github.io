@@ -30,7 +30,7 @@ Here is a collection of some open source projects I’ve lead:
 The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
 
 [**the Plug-in Dependency Visualization Tool**](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)  
-Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system.
+Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system. 
 
 
 [**Zest: the Visualization toolkit for Eclipse**](http://eclipse.org/gef/zest/)  
@@ -60,9 +60,11 @@ education
 **2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria**  
 
 **2000 - 2002:  Master's of Mathematics, University of Waterloo**   
-I studied the different [patterns of abstraction](docs/bull_thesis.pdf) we use while building mental models of large 
+I studied the different patterns of abstraction we use while building mental models of large 
 software systems. Our team built tools and extracted the concrete architecture of several open source systems, including
-the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more.
+the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more. [[download](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)]
 
 **1995 - 2000: Bachelor of Mathematics, Honours Computer Science, Software Engineering Option**  
+I Completed an Honours Computer Science degree with advanced courses in Real-Time Operating Systems,
+Computer Graphics and Compiler Construction.
 
