@@ -57,7 +57,11 @@ Developer on the automotive configuration management team.
 education
 ==============
 ---------
-**2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria**  
+**2003 - 2008: PhD, Computer Science / Software Engineering, University of Victoria**  
+I studied the way we make sense of complex data through the use of information visualization.
+In particular, I looked at how visualizations can be modeled and auto-generated from 
+rich data sources. I applied my techniques to several areas, including the domain of program comprehension. 
+|[pdf](docs/irbull_phd.pdf)|
 
 **2000 - 2002:  Master's of Mathematics, University of Waterloo**   
 I studied the different patterns of abstraction we use while building mental models of large 
