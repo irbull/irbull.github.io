@@ -49,7 +49,7 @@ Mentored several Eclipse.org students including the [Dot4Zest project](http://wi
 Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php).
 
 **2002 - 2008: IBM Centers for Advanced Studies, Toronto ON**  
-During my PhD studies, I spent the summers at IBM CAS working with several technical teams.
+During my PhD studies, I spent the summers at IBM CAS working with several technical teams including the EMF and PDE teams.
 
 **2000: Trilogy Software, Austin TX**  
 Developer on the automotive configuration management team.
@@ -62,7 +62,7 @@ education
 **2000 - 2002:  Master's of Mathematics, University of Waterloo**   
 I studied the different patterns of abstraction we use while building mental models of large 
 software systems. Our team built tools and extracted the concrete architecture of several open source systems, including
-the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more. [[download]](docs/bull_thesis.pdf)
+the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more. |[pdf](docs/bull_thesis.pdf)|
 
 **1995 - 2000: Bachelor of Mathematics, Honours Computer Science, Software Engineering Option**  
 I Completed an Honours Computer Science degree with advanced courses in Real-Time Operating Systems,
