@@ -14,16 +14,28 @@ I hold a Bachelor and Master's degree from the University of Waterloo and a PhD 
 
 open source
 ===============
-> Empowerment of individuals is a key part of what makes open source work, 
-> since in the end, innovations tend to come from small groups, not from large, 
+> Empowerment of individuals is a key part of what makes open source work,
+> since in the end, innovations tend to come from small groups, not from large,
 > structured efforts.
 >
 > Tim O'Reilly
 
-* p2
-* Plug-in Dependency Visualization Tool
-* Zest
-* My GitHub page
+I work on several open source projects both as part of my day job and as a hobby. I also serve on several councils / management committees around eclipse.org. I conduct training sessions, spoken at several conferences an I actively write about open source software on my [blog](http://eclipsesource.com/blogs/author/irbull/).
+
+Here is a collection of some projects I’ve worked on:
+
+the Eclipse provisioning platform (p2)
+-------------
+The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
+
+the Plug-in Dependency Visualization Tool
+------------
+Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system.
+
+
+Zest: the Visualization toolkit for Eclipse
+---------
+I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT).
 
 employment
 ===============
