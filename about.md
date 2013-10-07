@@ -27,10 +27,10 @@ I work on several open source projects both as part of my day job and as a hobby
 
 Here is a collection of some open source projects I’ve lead:
 
-[**the Eclipse provisioning platform (p2)**](http://eclipse.org/equinox/p2)  
+[**Eclipse provisioning platform (p2)**](http://eclipse.org/equinox/p2)  
 The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
 
-[**the Plug-in Dependency Visualization Tool**](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)  
+[**Plug-in Dependency Visualization Tool**](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)  
 Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system. 
 
 
