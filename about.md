@@ -26,12 +26,15 @@ I work on several open source projects both as part of my day job and as a hobby
 
 Here is a collection of some projects I’ve worked on:
 
-<h4>the Eclipse provisioning platform (p2)</h4> The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
+**the Eclipse provisioning platform (p2)**  
+The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
 
-<h4>the Plug-in Dependency Visualization Tool</h4> Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system.
+**the Plug-in Dependency Visualization Tool**  
+Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system.
 
 
-<h4>Zest: the Visualization toolkit for Eclipse</h4> I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT).
+**Zest: the Visualization toolkit for Eclipse**  
+I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT).
 
 employment
 ===============
