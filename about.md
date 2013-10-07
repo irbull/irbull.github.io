@@ -4,6 +4,7 @@ layout: index
 
 bio
 ===============
+---------
 I am an Eclipse committer and the Principal Architect for Yoxos Enterprise at EclipseSource. I co-lead the Eclipse 
 p2 project, serve on the Eclipse RT PMC, the Eclipse Planning Council and the Eclipse Architecture Council. 
 I am also the Program Chair for EclipseCon 2014.
@@ -14,6 +15,7 @@ I hold a Bachelor and Master's degree from the University of Waterloo and a PhD 
 
 open source
 ===============
+---------
 > Empowerment of individuals is a key part of what makes open source work,
 > since in the end, innovations tend to come from small groups, not from large,
 > structured efforts.
@@ -28,16 +30,15 @@ Here is a collection of some projects I’ve worked on:
 The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
 
 <h4>the Plug-in Dependency Visualization Tool</h4>
-------------
 Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system.
 
 
 <h4>Zest: the Visualization toolkit for Eclipse</h4>
----------
 I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT).
 
 employment
 ===============
+---------
 2008 - present: EclipseSource  
 EclipseSource product representative, Principal Architect for Yoxos Enterprise and Eclipse Committer. 
 
@@ -55,6 +56,7 @@ Developer on automotive configuration management team.
 
 education
 ==============
+---------
 2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria  
 
 2000 - 2002:  Master's of Mathematics, University of Waterloo.  
