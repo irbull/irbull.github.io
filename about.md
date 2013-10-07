@@ -39,30 +39,30 @@ I feel that creating interactive visualizations should not be any harder than cr
 employment
 ===============
 ---------
-2008 - present: EclipseSource  
+**2008 - present: EclipseSource**  
 EclipseSource product representative, Principal Architect for Yoxos Enterprise and Eclipse Committer. 
 
-2009: Google Summer of Code, Mentor  
+**2009: Google Summer of Code, Mentor**  
 Mentored several Eclipse.org students including the [Dot4Zest project](http://wiki.eclipse.org/Zest/DOT).
 
-2007: Google Summer of Code  
+**2007: Google Summer of Code**  
 Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php).
 
-2002 - 2008: IBM Centers for Advanced Studies, Toronto ON  
+**2002 - 2008: IBM Centers for Advanced Studies, Toronto ON**  
 During my PhD studies, I spent the summers at IBM CAS working with several technical teams.
 
-2000: Trilogy Software, Austin TX  
-Developer on automotive configuration management team.
+**2000: Trilogy Software, Austin TX**  
+Developer on the automotive configuration management team.
 
 education
 ==============
 ---------
-2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria  
+**2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria**  
 
-2000 - 2002:  Master's of Mathematics, University of Waterloo.  
+**2000 - 2002:  Master's of Mathematics, University of Waterloo**   
 I studied the different patterns of abstraction we use while building mental models of large 
 software systems. Our team built tools and extracted the concrete architecture of several open source systems, including
 the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more.
 
-1995 - 2000: Bachelor of Mathematics, Honours Computer Science, Software Engineering Option.  
+**1995 - 2000: Bachelor of Mathematics, Honours Computer Science, Software Engineering Option**  
 
