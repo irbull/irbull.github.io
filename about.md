@@ -11,12 +11,27 @@ My interests include software architecture, component oriented design, release e
 delivery and human-computer interaction.
 I hold a Bachelor and Master's degree from the University of Waterloo and a PhD from the University of Victoria.
 
+
 open source
 ===============
+> Empowerment of individuals is a key part of what makes open source work, 
+> since in the end, innovations tend to come from small groups, not from large, 
+> structured efforts.
+>
+> Tim O'Reilly
+
+* p2
+* Plug-in Dependency Visualization Tool
+* Zest
+* My GitHub page
 
 employment
 ===============
 2008 - present: EclipseSource
+EclipseSource product representative, Principal Architect for Yoxos Enterprise and Eclipse Committer. 
+
+2009: Google Summer of Code, Mentor
+Mentored several Eclipse.org students including the [Dot4Zest project](http://wiki.eclipse.org/Zest/DOT).
 
 2007: Google Summer of Code
 Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php).
@@ -25,6 +40,7 @@ Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://w
 During my PhD studies, I spent the summers at IBM CAS working with several technical teams.
 
 2000: Trilogy Software, Austin TX
+Developer on automotive configuration management team.
 
 education
 ==============
