@@ -60,7 +60,7 @@ education
 **2002 - 2008: PhD, Computer Science / Software Engineering, University of Victoria**  
 
 **2000 - 2002:  Master's of Mathematics, University of Waterloo**   
-I studied the different patterns of abstraction we use while building mental models of large 
+I studied the different [patterns of abstraction](docs/bull_thesis.pdf) we use while building mental models of large 
 software systems. Our team built tools and extracted the concrete architecture of several open source systems, including
 the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more.
 
