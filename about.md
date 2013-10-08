@@ -72,6 +72,6 @@ software systems. Our team built tools and extracted the concrete architecture o
 the Linux Kernal, Mozilla Web Browser, Pine Mail Reader and many more. |[pdf](docs/bull_thesis.pdf)|
 
 **1995 - 2000: Bachelor of Mathematics, Honours Computer Science, Software Engineering Option**  
-I Completed an Honours Computer Science degree with advanced courses in Real-Time Operating Systems,
+I completed an Honours Computer Science degree with advanced courses in Real-Time Operating Systems,
 Computer Graphics and Compiler Construction.
 
