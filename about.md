@@ -23,19 +23,21 @@ open source
 >
 > Tim O'Reilly
 
-I work on several open source projects both as part of my day job and as a hobby. I also serve on several councils / management committees around eclipse.org. I conduct training sessions, I've spoken at several conferences an I actively write about open source software on my [blog](http://eclipsesource.com/blogs/author/irbull/).
+I work on several open source projects and serve on several councils / management committees around eclipse.org. 
+I conduct training sessions, I've spoken at several conferences and I actively write about open source software 
+on my [blog](http://eclipsesource.com/blogs/author/irbull/).
 
-Here is a collection of some open source projects I’ve lead:
+Here is a collection of some open source projects I’ve led:
 
 [**Eclipse provisioning platform (p2)**](http://eclipse.org/equinox/p2)  
-The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications.
+The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications. ([more](http://eclipse.org/equinox/p2))
 
 [**Plug-in Dependency Visualization Tool**](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)  
-Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system. 
+Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system. ([more](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php))
 
 
 [**Zest: the Visualization toolkit for Eclipse**](http://eclipse.org/gef/zest/)  
-I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT).
+I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT). ([more](http://eclipse.org/gef/zest/))
 
 employment
 ===============
