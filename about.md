@@ -8,7 +8,7 @@ bio
 I am an Eclipse committer and the Principal Architect for Yoxos Enterprise at EclipseSource. I co-lead the Eclipse 
 p2 project, serve on the Eclipse RT PMC, the [Eclipse Planning Council](http://wiki.eclipse.org/Planning_Council) 
 and the [Eclipse Architecture Council](http://wiki.eclipse.org/Architecture_Council). 
-I am also the Program Chair for [EclipseCon 2014](https://www.eclipsecon.org/na2014/).
+I'm also the Program Chair for [EclipseCon 2014](https://www.eclipsecon.org/na2014/).
 My interests include software architecture, component oriented design, release engineering, software
 delivery and human-computer interaction.
 I hold a Bachelor and Master's degree from the University of Waterloo and a PhD from the University of Victoria.
