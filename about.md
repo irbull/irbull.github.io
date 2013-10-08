@@ -5,7 +5,7 @@ layout: index
 bio
 ===============
 ---------
-I am an Eclipse committer and the Principal Architect for Yoxos Enterprise at EclipseSource. I co-lead the Eclipse 
+I am an Eclipse committer and the Principal Architect for Yoxos Enterprise at [EclipseSource](http://eclipsesource.com). I co-lead the Eclipse 
 p2 project, serve on the Eclipse RT PMC, the [Eclipse Planning Council](http://wiki.eclipse.org/Planning_Council) 
 and the [Eclipse Architecture Council](http://wiki.eclipse.org/Architecture_Council). 
 I'm also the Program Chair for [EclipseCon 2014](https://www.eclipsecon.org/na2014/).
