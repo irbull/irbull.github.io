@@ -42,7 +42,7 @@ I feel that creating interactive visualizations should not be any harder than cr
 employment
 ===============
 ---------
-**2008 - present: Principal Architect, EclipseSource**  
+**2008 - Present: Principal Architect, EclipseSource**  
 EclipseSource product representative, Principal Architect for Yoxos Enterprise and Eclipse Committer. 
 
 **2009: Mentor, Google Summer of Code**  
@@ -51,7 +51,7 @@ Mentored several Eclipse.org students including the [Dot4Zest project](http://wi
 **2007: Student, Google Summer of Code**  
 Built and delivered the Eclipse [Plug-in Dependency Visualization tool](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php).
 
-**2002 - 2008: IBM Centers for Advanced Studies, Toronto ON**  
+**2003 - 2008: IBM Centers for Advanced Studies, Toronto ON**  
 During my PhD studies, I spent the summers at IBM CAS working with several technical teams including the EMF and PDE teams.
 
 **2000: Trilogy Software, Austin TX**  
