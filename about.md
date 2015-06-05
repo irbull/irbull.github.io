@@ -5,13 +5,7 @@ layout: index
 bio
 ===============
 ---------
-I am an Eclipse committer and the Principal Architect for Yoxos Enterprise at [EclipseSource](http://eclipsesource.com). I co-lead the Eclipse 
-p2 project, serve on the Eclipse RT PMC, the [Eclipse Planning Council](http://wiki.eclipse.org/Planning_Council) 
-and the [Eclipse Architecture Council](http://wiki.eclipse.org/Architecture_Council). 
-I'm also the Program Chair for [EclipseCon 2014](https://www.eclipsecon.org/na2014/).
-My interests include software architecture, component oriented design, release engineering, software
-delivery and human-computer interaction.
-I hold a Bachelor and Master's degree from the University of Waterloo and a PhD from the University of Victoria.
+I am an EclipseSource Distinguished Engineer with many years of experience in designing and implementing software systems. I have a long history with Open Source as an Eclipse committer, member of the Eclipse RT PMC, the Eclipse Planning Council and the Eclipse Architecture Council. My interests include software architecture, component oriented design, release engineering, human-computer interaction and just about everything related to software engineering. I hold a Bachelor and Master's degree from the University of Waterloo and a PhD from the University of Victoria.
 
 
 open source
@@ -29,12 +23,14 @@ on my [blog](http://eclipsesource.com/blogs/author/irbull/).
 
 Here is a collection of some open source projects I’ve led:
 
+[**Java Bindings for V8 (J2V8)**](https://github.com/eclipsesource/j2v8)  
+J2V8 is a set of Java bindings for V8. J2V8 focuses on performance and tight integration with V8.
+
 [**Eclipse provisioning platform (p2)**](http://eclipse.org/equinox/p2)  
 The p2 project is a sub-project of Equinox that focuses on provisioning technology for OSGi-based applications. Although p2 has specific support for installing Eclipse and Equinox-based applications, it includes a general-purpose provisioning infrastructure that can be used as the basis for provisioning solutions for a wide variety of software applications. ([more](http://eclipse.org/equinox/p2))
 
 [**Plug-in Dependency Visualization Tool**](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php)  
 Understanding the transitive dependencies between your plug-ins (OSGi bundles) can be tricky. This tool, built on Zest, presents you with an interactive graph of all the dependencies in your system. ([more](http://www.eclipse.org/pde/incubator/dependency-visualization/index.php))
-
 
 [**Zest: the Visualization toolkit for Eclipse**](http://eclipse.org/gef/zest/)  
 I feel that creating interactive visualizations should not be any harder than creating other rich user interfaces. In particular, the API should not get in your way. I built Zest during my PhD to give software developers the ability to create highly interactive, graph based, visualizations using the same API as the Standard Widget Toolkit (SWT). ([more](http://eclipse.org/gef/zest/))
